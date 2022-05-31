@@ -2,7 +2,7 @@
 
 ---
 
--Two Sum
+- Two Sum
 
 <details>
   <summary>Details</summary>
